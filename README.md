@@ -2,12 +2,12 @@
 Here are some demos to help you understand and apply data structures better
 
 1.SortCompare.c:Calculate the actual time, number of comparisons, and number of moves of insertion sort, quicksort, and merge sort
-计算插入排序、快速排序、归并排序三种排序方式的实际花费时间、比较次数、移动次数 /n
-1)生成随机数组（调用srand(),time(),rand()函数）；/n
-2)定义全局变量记录比较次数与移动次数；/n
-3)建立插入排序、快速排序、归并排序函数，并在排序过程中计算比较次数、移动次数；/n
-4)利用clock()函数，建立searchtime()函数，实现计时功能；/n
-5)调用以上函数，最终得出三种排序方式的实际花费时间、比较次数、移动次数。/n
+计算插入排序、快速排序、归并排序三种排序方式的实际花费时间、比较次数、移动次数
+1)生成随机数组（调用srand(),time(),rand()函数）；
+2)定义全局变量记录比较次数与移动次数；
+3)建立插入排序、快速排序、归并排序函数，并在排序过程中计算比较次数、移动次数；
+4)利用clock()函数，建立searchtime()函数，实现计时功能；
+5)调用以上函数，最终得出三种排序方式的实际花费时间、比较次数、移动次数。
 
 2.MazeSolving.c:Find and output the path of custom random maze
 查找并输出自定义随机迷宫的路径
