@@ -1,11 +1,17 @@
 # DataStructure
 Here are some demos to help you understand and apply data structures better
+
 1.SortCompare.c:Calculate the actual time, number of comparisons, and number of moves of insertion sort, quicksort, and merge sort
+
 2.MazeSolving.c:Find and output the path of custom random maze
+
 3.GoProblem.c:Generate a random go board, calculate the number of pieces, the position of pieces and the amount of liberty
+
 Enjoy yourself!
 
+
 这些例子可以帮助你更好地理解和应用数据结构
+
 1.SortCompare.c:计算插入排序、快速排序、归并排序三种排序方式的实际花费时间、比较次数、移动次数
 1)生成随机数组（调用srand(),time(),rand()函数）；
 2)定义全局变量记录比较次数与移动次数；
