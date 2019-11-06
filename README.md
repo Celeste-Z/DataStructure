@@ -1,4 +1,6 @@
 # DataStructure
+Introduction in English:
+
 Here are some demos to help you understand and apply data structures better
 
 1.SortCompare.c:Calculate the actual time, number of comparisons, and number of moves of insertion sort, quicksort, and merge sort
@@ -9,6 +11,9 @@ Here are some demos to help you understand and apply data structures better
 
 Enjoy yourself!
 
+
+
+中文介绍：
 
 这些例子可以帮助你更好地理解和应用数据结构
 
